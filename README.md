@@ -24,9 +24,31 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado na con
 #### [Integração de Banco de Dados]
 * **Descrição:** Exercícios de conexão e manipulação de dados focados em back-end.
 * **Tech stack:** Java, JDBC/MySQL.
+
+---
+
+* ## 💻 Tecnologias em aprendizado
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+
+</p>
   
 ---
+
+### 🔥 Sequência de Contribuições
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Pulheis&theme=radical)](https://git.io/streak-stats)
+
+---
+
 
 ### 📫 Como me encontrar:
 
 * **LinkedIn:** www.linkedin.com/in/matheus-pulheis-dos-reis-16264a2b9
+
+---
