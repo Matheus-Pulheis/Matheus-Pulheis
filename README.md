@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus! 👋
+# Olá, me chamo Matheus! 👋
 
 ### Desenvolvedor de Software em Formação | Java & Back-end
 
@@ -30,10 +30,3 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado na con
 ### 📫 Como me encontrar:
 
 * **LinkedIn:** www.linkedin.com/in/matheus-pulheis-dos-reis-16264a2b9
-
----
-
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Matheus-Pulheis&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Pulheis&layout=compact&theme=radical)
