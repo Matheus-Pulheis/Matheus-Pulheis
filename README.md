@@ -1,6 +1,6 @@
 # Olá, me chamo Matheus! 👋
 
-### Desenvolvedor de Software em Formação | Java & Back-end
+### Desenvolvedor de Software | Java & Back-end
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado na construção de soluções robustas e escaláveis. Atualmente, dedico meus estudos ao ecossistema **Java**, explorando desde a lógica de programação até conceitos avançados de Programação Orientada a Objetos.
 
